@@ -1,0 +1,35 @@
+body{
+    width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(73, 163, 118);
+    padding-left: 100px;
+}
+header{
+    font-variant: small-caps;
+    /*color: rgba(200, 150, 90, 1);*/
+    color: #000000;
+}
+.satu{
+    border: 100px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: blanchedalmond;
+}
+.dua{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    width: 50vmin;
+    height: 25vmax;
+    line-height: 50px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+
+img.Nusa {
+    width: 250px;
+}
+
+
